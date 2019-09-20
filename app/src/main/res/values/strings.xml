@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string name="welcome">Welcome to Hangman US States Edition!</string>
+    <string name="instructions">Pick a letter and to guess the State</string>
+    <string name="score_start">10</string>
+    <string name="score_1">9</string>
+    <string name="score_2">6</string>
+    <string name="score_3">3</string>
+    <string name="score_4">0</string>
+    <string name="alive">You Survived!</string>
+    <string name="dead">You Died!</string>
+</resources>
